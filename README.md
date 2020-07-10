@@ -15,7 +15,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/ages-20-30.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://forthebadge.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=senvardarsemih.senvardarsemih)
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 
 <hr/>
