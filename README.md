@@ -1,25 +1,56 @@
 
 ### Hi there 👋 I'm Semih
 
+I'm just trying to build useful software and just learning how to do it . Make yourself at home ❗ 
+
 ![](https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/giphy.gif)
+---
 
-<hr/>
-
+### 🚧 I build with...
 <p align="center">
-<a href= "https://medium.com/@senvardarsemih" target="_blank"><img src="https://img.icons8.com/color/32/000000/medium.png"/></a>
-<a href= "https://twitter.com/semihsenvardar" target="_blank"><img src="https://img.icons8.com/color/32/000000/twitter.png"/></a>
-<a href= "https://linkedin.com/in/semihsenvardar" target="_blank"><img src="https://img.icons8.com/color/32/000000/linkedin-2.png"/> 
+   <a href="https://aws.amazon.com/">
+    <img src="badges\aws.svg" alt="AWS" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://aws.amazon.com/">
+    <img src="badges\cloud.svg" alt="Cloud" style="vertical-align:top; margin:4px">
+  </a>    
+   <a href="https://hub.docker.com/">
+    <img src="badges\dockerhub.svg" alt="Docker" style="vertical-align:top; margin:4px">
+  </a>  
+   <a href="https://www.nuget.org/">
+    <img src="badges\nuget.svg" alt="Nuget" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="badges\visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="badges\visualstudio_code.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
+  </a><br/>
+<b> ...  and much more tools & technologies but have no badges for this readme file 😄 </b>
 </p>
-<hr/>
 
-[![forthebadge](https://forthebadge.com/images/badges/ages-20-30.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://forthebadge.com)
-![](https://visitor-badge.glitch.me/badge?page_id=senvardarsemih.senvardarsemih)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
-
-<hr/>
+---
+### 📢 Find me
 <p align="center">
-Check out my repos ⬇️  
+   <a href="https://medium.com/@senvardarsemih">
+    <img src="badges\medium.svg" alt="Medium" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://twitter.com/semihsenvardar">
+    <img src="badges\twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>    
+    <a href="https://linkedin.com/in/semihsenvardar">
+    <img src="badges\linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+  </a>  
+    <a href="https://www.instagram.com/senvardarsemih/">
+    <img src="badges\instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+---
+![](https://visitor-badge.glitch.me/badge?page_id=senvardarsemih.senvardarsemih)
+
+<p align="center">
+<b>Check out my repos</b> ⬇️  
 </p>
 
 
