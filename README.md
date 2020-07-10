@@ -6,9 +6,9 @@
 <hr/>
 
 <p align="center">
-<a href= "https://medium.com/@senvardarsemih"><img src="https://img.icons8.com/color/32/000000/medium.png"/></a>
-<a href= "https://twitter.com/semihsenvardar"><img src="https://img.icons8.com/color/32/000000/twitter.png"/></a>
-<a href= "https://linkedin.com/in/semihsenvardar"><img src="https://img.icons8.com/color/32/000000/linkedin-2.png"/> 
+<a href= "https://medium.com/@senvardarsemih" target="_blank"><img src="https://img.icons8.com/color/32/000000/medium.png"/></a>
+<a href= "https://twitter.com/semihsenvardar" target="_blank"><img src="https://img.icons8.com/color/32/000000/twitter.png"/></a>
+<a href= "https://linkedin.com/in/semihsenvardar" target="_blank"><img src="https://img.icons8.com/color/32/000000/linkedin-2.png"/> 
 </p>
 <hr/>
 
