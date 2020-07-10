@@ -39,7 +39,7 @@ I'm just trying to build useful software and just learning how to do it . Make y
     <img src="badges\twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>    
     <a href="https://linkedin.com/in/semihsenvardar">
-    <img src="badges\linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+    <img src="badges\linkedIn.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
   </a>  
     <a href="https://www.instagram.com/senvardarsemih/">
     <img src="badges\instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
