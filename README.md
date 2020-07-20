@@ -17,14 +17,20 @@ I'm just trying to build useful software and just learning how to do it . Make y
   <a href="https://dotnet.microsoft.com/">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
-   <a href="https://aws.amazon.com/">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
-  </a> 
+  <a href="https://code.visualstudio.com/">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs Code" style="vertical-align:top; margin:4px">
+  </a>
    <a href="https://hub.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs Code" style="vertical-align:top; margin:4px">
+   <a href="https://aws.amazon.com/">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://aws.amazon.com/tr/ecs/">
+    <img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://aws.amazon.com/tr/ecr/">
+    <img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
   </a>
    <a href="https://www.elastic.co">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" style="vertical-align:top; margin:4px">
