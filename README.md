@@ -41,7 +41,7 @@ I'm just trying to build useful software and just learning how to do it . Make y
    <a href="https://www.jenkins.io/">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" style="vertical-align:top; margin:4px">
   </a><br/>
-<b> ...  and much more tools & technologies but have no badges for this readme file 😄 </b>
+<b> ...  and much more tools & technologies but not need to mention here 😄 </b>
 </p>
 
 ---
