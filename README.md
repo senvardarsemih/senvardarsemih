@@ -8,23 +8,32 @@ I'm just trying to build useful software and just learning how to do it . Make y
 
 ### 🚧 I build with...
 <p align="center">
-   <a href="https://aws.amazon.com/">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/aws.svg" alt="AWS" style="vertical-align:top; margin:4px">
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
    <a href="https://aws.amazon.com/">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/cloud.svg" alt="Cloud" style="vertical-align:top; margin:4px">
-  </a>    
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
+  </a> 
    <a href="https://hub.docker.com/">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/dockerhub.svg" alt="Docker" style="vertical-align:top; margin:4px">
-  </a>  
-   <a href="https://www.nuget.org/">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/nuget.svg" alt="Nuget" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/visualstudio_code.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs Code" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://www.elastic.co">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://www.rabbitmq.com">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://www.jenkins.io/">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" style="vertical-align:top; margin:4px">
   </a><br/>
 <b> ...  and much more tools & technologies but have no badges for this readme file 😄 </b>
 </p>
@@ -47,6 +56,9 @@ I'm just trying to build useful software and just learning how to do it . Make y
 </p>
 
 ---
+![Current Stats](https://github-readme-stats.vercel.app/api?username=senvardarsemih&show_icons=true)
+---
+
 ![](https://visitor-badge.glitch.me/badge?page_id=senvardarsemih.senvardarsemih)
 
 <p align="center">
