@@ -2,7 +2,7 @@
 ### Hi there 👋 I'm Semih
 ---
 <img align="left" src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/icon/naruto-rasengan.png">
-I'm just trying to build useful software and just learning how to do it . Make yourself at home ❗
+<h4>I'm just trying to build software and learning how to do it . Make yourself at home ❗</h4>
 <a href="https://medium.com/@senvardarsemih">
     <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/medium.svg" alt="Medium" style="vertical-align:top; margin:4px">
   </a>
