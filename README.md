@@ -1,11 +1,21 @@
 
 ### Hi there 👋 I'm Semih
-
-I'm just trying to build useful software and just learning how to do it . Make yourself at home ❗ 
-
-![](https://media.giphy.com/media/l4JyOCNEfXvVYEqB2/giphy.gif)
 ---
+<img align="left" src="icon/naruto-rasengan.png">
+<h2>I'm just trying to build useful software and just learning how to do it . Make yourself at home ❗<h2>
+<a href="https://medium.com/@senvardarsemih">
+    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/medium.svg" alt="Medium" style="vertical-align:top; margin:4px">
+  </a>
+<a href="https://twitter.com/semihsenvardar">
+    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>    
+<a href="https://linkedin.com/in/semihsenvardar">
+    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/linkedIn.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+  </a>
+<a href="https://www.instagram.com/senvardarsemih/">
+    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
 
+---
 ### 🚧 I build with...
 <p align="center">
   <a href="https://git-scm.com/">
@@ -42,23 +52,6 @@ I'm just trying to build useful software and just learning how to do it . Make y
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" style="vertical-align:top; margin:4px">
   </a><br/>
 <b> ...  and much more tools & technologies but not need to mention here 😄 </b>
-</p>
-
----
-### 📢 Find me
-<p align="center">
-   <a href="https://medium.com/@senvardarsemih">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/medium.svg" alt="Medium" style="vertical-align:top; margin:4px">
-  </a>
-   <a href="https://twitter.com/semihsenvardar">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>    
-    <a href="https://linkedin.com/in/semihsenvardar">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/linkedIn.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
-  </a>  
-    <a href="https://www.instagram.com/senvardarsemih/">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-  </a>
 </p>
 
 ---
