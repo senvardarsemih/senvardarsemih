@@ -1,23 +1,18 @@
 
-### Hi there 👋 I'm Semih
+<h2 align="center">Hi there 👋 I'm Semih</h1>
+
+- 👷 Currently working at <a href="https://github.com/Hesapkurdu">Hesapkurdu</a>
+
+- 📝 Regularly write articles about software development on https://medium.com/@senvardarsemih
+
+- 📫 Contact from <a href="mailto:senvardarsemih@gmail.com">senvardarsemih@gmail.com</a>
 ---
-<img align="left" src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/icon/naruto-rasengan.png">
-<h4>I'm just trying to build software and learning how to do it . Make yourself at home ❗</h4>
-<a href="https://medium.com/@senvardarsemih">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/medium.svg" alt="Medium" style="vertical-align:top; margin:4px">
-  </a>
-<a href="https://twitter.com/semihsenvardar">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>    
-<a href="https://linkedin.com/in/semihsenvardar">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/linkedIn.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
-  </a>
-<a href="https://www.instagram.com/senvardarsemih/">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+### Recent Article
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@senvardarsemih/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@senvardarsemih/0" alt="Semih Şenvardar Medium">
 
 ---
-#### 🚧 I build with...
 <p align="center">
+  <img align="left" src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/icon/naruto-rasengan.png">
   <a href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" style="vertical-align:top; margin:4px;">
   </a>
@@ -51,12 +46,28 @@
    <a href="https://www.jenkins.io/">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" style="vertical-align:top; margin:4px">
   </a><br/>
-<b> ...  and much more tools & technologies but not need to mention here 😄 </b>
 </p>
+<br/>
 
+---
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=senvardarsemih&layout=compact&hide=html)
 ---
 ![Current Stats](https://github-readme-stats.vercel.app/api?username=senvardarsemih&show_icons=true)
 ---
+<br/>
+<p>
+<a href="https://medium.com/@senvardarsemih">
+    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/medium.svg" alt="Medium" style="vertical-align:top; margin:4px">
+  </a>
+<a href="https://twitter.com/semihsenvardar">
+    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>    
+<a href="https://linkedin.com/in/semihsenvardar">
+    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/linkedIn.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
+  </a>
+<a href="https://www.instagram.com/senvardarsemih/">
+    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">    
+</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=senvardarsemih.senvardarsemih)
 
