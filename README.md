@@ -55,6 +55,4 @@
 <a href="https://www.instagram.com/senvardarsemih/">
     <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
 <br/>
-<a href="https://www.instagram.com/senvardarsemih/">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=senvardarsemih.senvardarsemih" alt="Instagram" style="vertical-align:top; margin:4px">
 </p>
