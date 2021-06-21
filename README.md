@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi there 👋 I'm Semih</h1>
 
-- 👷 Currently working at <a href="https://github.com/Hesapkurdu">Hesapkurdu</a>
+- 👷 Currently working at <a href="https://www.hepsiburada.com/">Hepsiburada</a>
 
 - 📝 Regularly write articles about software development on <https://medium.com/@senvardarsemih>
 
