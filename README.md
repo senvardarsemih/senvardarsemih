@@ -19,26 +19,19 @@
 </p>
 <br/>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual-studio)
-![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c-sharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Redis](https://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Linux](https://img.shields.io/badge/-Linux-white?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Jenkins](https://img.shields.io/badge/-Jenkins-lightgrey?style=flat-square&logo=jenkins)
-![Elastic](https://img.shields.io/badge/-Elastic-teal?style=flat-square&logo=elastic)
-![Kibana](https://img.shields.io/badge/-Kibana-teal?style=flat-square&logo=kibana)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
-![RabbitMq](https://img.shields.io/badge/-RabbitMq-white?style=flat-square&logo=rabbitmq)
-
----
-
-<p align="center"><img align="" src="https://github-readme-stats.vercel.app/api?username=senvardarsemih&show_icons=true&theme=tokyonight" alt="senvardarsemih" /></p>
-<p align="center"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senvardarsemih&layout=compact&hide=html&theme=tokyonight" alt="senvardarsemih" /></p>
+![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
+![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Fluentd](https://img.shields.io/static/v1?style=for-the-badge&message=Fluentd&color=0E83C8&logo=Fluentd&logoColor=FFFFFF&label=)
+![Elastic Stack](https://img.shields.io/static/v1?style=for-the-badge&message=Elastic+Stack&color=005571&logo=Elastic+Stack&logoColor=FFFFFF&label=)
+![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
+![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![New Relic](https://img.shields.io/static/v1?style=for-the-badge&message=New+Relic&color=008C99&logo=New+Relic&logoColor=FFFFFF&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![RabbitMQ](https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
+![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=green&logo=Jenkins&logoColor=black&label=)  
 
 ---
 <br/>
@@ -52,7 +45,5 @@
 <a href="https://linkedin.com/in/semihsenvardar">
     <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/linkedIn.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
   </a>
-<a href="https://www.instagram.com/senvardarsemih/">
-    <img src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/badges/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
 <br/>
 </p>
