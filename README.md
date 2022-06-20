@@ -8,12 +8,6 @@
 - 📫 Contact from <a href="mailto:senvardarsemih@gmail.com">senvardarsemih@gmail.com</a>
 
 ---
-
-### Recent Article
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@senvardarsemih/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@senvardarsemih/0" alt="Semih Şenvardar Medium">
-
----
 <p align="center">
   <img align="left" height="100px" src="https://raw.githubusercontent.com/senvardarsemih/senvardarsemih/master/icon/naruto-rasengan.png">
 </p>
